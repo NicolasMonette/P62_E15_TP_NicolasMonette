@@ -21,3 +21,12 @@ générer  1 articles  par equipe avec les détails, et 1 formulaires de pari pa
 -- Finalisation projet (css , html, js)
 -- Dépot du fichier zip sur dropbox
 
+round 1 
+st louis - minnesota
+nashville-chicago
+anaheim-winnipeg
+vancouver-calgary
+montreal-ottawa
+tampa bay-detroit
+new york R - pitsburg
+new york I - washington
